@@ -1,4 +1,4 @@
-severity: error
+severity: zero
 
 linters:
 
